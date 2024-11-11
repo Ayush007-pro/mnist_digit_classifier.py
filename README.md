@@ -1,6 +1,6 @@
 ## README
 
-### Project Title: MNIST Digit Classification with TensorFlow
+### Project Title: MNIST Digit Classifier (using TensorFlow)
 
 #### Overview
 This project demonstrates how to build a simple neural network using TensorFlow and Keras to classify handwritten digits from the MNIST dataset. The model is a Sequential neural network that is trained and tested on the MNIST data to achieve digit recognition with a high accuracy.
