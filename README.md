@@ -35,7 +35,3 @@ The model consists of:
 #### Files
 - `mnist_digit_classifier.py`: Contains the code to preprocess the data, train the model, evaluate it, and save the trained model.
 - `my_mnist_model`: Saved trained model that can be reloaded for evaluation.
-
---- 
-
-This README file is ready to accompany your `mnist_digit_classifier.py` script!
